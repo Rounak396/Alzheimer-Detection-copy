@@ -1,0 +1,1 @@
+Deep Learning based method used to train a model to detect Alzheimer. The dataset has 6400 mri scan images. The data has four classes of images both in training as well as a testing set: 1.Mild Demented 2.Moderate Demented 3.Non Demented 4.Very Mild Demented.
